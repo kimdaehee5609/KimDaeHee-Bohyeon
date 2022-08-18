@@ -8,7 +8,7 @@
 
 
 
-https://github.com/kimdaehee5609/KimDaeHee-Bohyeon.git
+git clone https://github.com/kimdaehee5609/KimDaeHee-Bohyeon.git
 
 
 
